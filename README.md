@@ -1,1 +1,1 @@
-# JavaScript-Neueal-Network
+# JavaScript-Neural-Network
